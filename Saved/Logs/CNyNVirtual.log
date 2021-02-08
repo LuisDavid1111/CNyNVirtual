@@ -5398,3 +5398,35 @@ Script Stack (0 frames):
 [2021.02.08-22.17.45:768][436]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.08-22.17.45:768][436]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Ensenada.Ensenada
 [2021.02.08-22.17.45:768][436]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Ensenada_BuiltData.Ensenada_BuiltData
+[2021.02.08-22.19.53:638][253]LogActorFactory: Actor Factory created Plane
+[2021.02.08-22.19.54:253][275]LogActorFactory: Actor Factory created Plane
+[2021.02.08-22.21.56:140][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.02.08-22.21.56:931][542]Cmd: EDIT COPY
+[2021.02.08-22.21.57:415][570]Cmd: EDIT PASTE
+[2021.02.08-22.22.08:590][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2021.02.08-22.22.09:463][210]Cmd: DELETE
+[2021.02.08-22.22.09:464][210]Cmd: ACTOR DELETE
+[2021.02.08-22.22.09:514][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.08-22.22.09:529][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.02.08-22.22.09:550][210]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2021.02.08-22.22.10:568][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.02.08-22.22.43:463][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.02.08-22.23.19:453][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.02.08-22.23.29:570][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.02.08-22.23.47:354][338]Cmd: EDIT COPY
+[2021.02.08-22.23.47:962][372]Cmd: EDIT PASTE
+[2021.02.08-22.25.58:727][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EdicioCPiso2_BODY_17__2)
+[2021.02.08-22.26.00:814][839]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (EdicioCPiso2_BODY_17__2)
+[2021.02.08-22.27.05:317][504]LogSlate: Window 'EdicioCPiso2_BODY_17_' being destroyed
+[2021.02.08-22.27.05:334][504]LogSlate: Window 'EdicioCPiso2_BODY_17_' being destroyed
+[2021.02.08-22.27.05:346][504]LogStaticMeshEditorExtension: Warning: Mesh editing operations made on static mesh EdicioCPiso2_BODY_17_ have been nullified. Undoing those mesh editing operations won't have any effect.
+[2021.02.08-22.27.05:354][504]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-22.27.05:354][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-22.27.06:469][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Ensenada" FILE="C:/Users/tivur/Desktop/GitHub/CNyNVirtual/Content/FirstPersonBP/Maps/Ensenada.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.08-22.27.06:493][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.02.08-22.27.07:646][558]LogSavePackage: Moving 'C:/Users/tivur/Desktop/GitHub/CNyNVirtual/Saved/EnsenadaAE734BA3428C3F0ED1BDB48E98675295.tmp' to 'C:/Users/tivur/Desktop/GitHub/CNyNVirtual/Content/FirstPersonBP/Maps/Ensenada.umap'
+[2021.02.08-22.27.07:666][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Ensenada_BuiltData" FILE="C:/Users/tivur/Desktop/GitHub/CNyNVirtual/Content/FirstPersonBP/Maps/Ensenada_BuiltData.uasset" SILENT=true
+[2021.02.08-22.27.09:200][558]LogSavePackage: Moving 'C:/Users/tivur/Desktop/GitHub/CNyNVirtual/Saved/Ensenada_BuiltDataDD10D65F448F7200DE2CCBB3076F3AB0.tmp' to 'C:/Users/tivur/Desktop/GitHub/CNyNVirtual/Content/FirstPersonBP/Maps/Ensenada_BuiltData.uasset'
+[2021.02.08-22.27.09:235][558]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.08-22.27.09:235][558]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Ensenada.Ensenada
+[2021.02.08-22.27.09:236][558]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Ensenada_BuiltData.Ensenada_BuiltData
